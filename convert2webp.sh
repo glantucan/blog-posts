@@ -1,0 +1,2 @@
+#/bin/bash
+for f in *.jpg; do [ -f "$f" ] && cwebp "$f" -hint photo -q 50 -m 4  -mt -metadata all -o "/home/glantruan/_programming/personal/blog-content/images/posts/2025-03-08-Mina-Colonia-ruinas/${f%.jpg}.webp"; done
