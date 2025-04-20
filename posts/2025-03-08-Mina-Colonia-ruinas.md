@@ -1,8 +1,8 @@
 ---
 title: "Carbón, color y corrupción"
 date: "2025-03-18"
-tags: ["photography", "travel", "exploration", "art"]
-categories: ["photography", "travel"]
+tags: ["fotografía", "viajes", "exploración", "arte"]
+category: "foto"
 featuredImages: ["IMG_20250308_121901.webp","IMG_20250308_153622.webp"]
 ---
 

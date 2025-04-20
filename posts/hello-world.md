@@ -2,7 +2,7 @@
 title: "Hello World - First Blog Post"
 date: "2025-03-18"
 tags: ["photography", "introduction"]
-categories: ["general"]
+category: "general"
 featuredImages: ["hello-world.jpg"]
 ---
 
