@@ -1,11 +1,10 @@
 ---
-title: "Carbón reinvantado en color"
+title: "Carbón, color y corrupción"
 date: "2025-03-18"
 tags: ["photography", "travel", "exploration", "art"]
 categories: ["photography", "travel"]
 featuredImages: ["IMG_20250308_121901.webp","IMG_20250308_153622.webp"]
 ---
-# Carbón reinventado en color y abandono.
 
 El día está lluvioso. Sin ganas de pasar el día caminando empapados, descubrimos que hay una mina cercana que se puede visitar. 
 
@@ -31,7 +30,7 @@ La nueva central térmica fue condenada por un delito ecológico en 1985, debido
 
 Su cercanía a la población y a un embalse que abastece a la comarca de Barcelona la convierte en una amenaza para la salud pública, incluso después de su cierre en 2012, como varias asociaciones y plataformas vecinales han denunciado sin descanso ni consecuencias. Desde entonces, ha pasado por varias manos, ninguna de las cuales ha asumido la responsabilidad de su desmantelamiento. 
 
-Primero fue un parque temático del terror durante tres años. Luego una empresa de tratamiento de residuos intentó convertirla en incineradora, sin éxito gracias a la oposición vecinal. Más tarde, la misma empresa intentó convertirla en una planta de hidrógeno verde, pero de nuevo la resistencia vecinal, ha conseguide retrasar y de momento parar el proyecto, que sobreexplotaría uno de los pocos acuíferos de la zona, especialmente castigada por la sequía.
+Primero fue un parque temático del terror durante tres años. Luego una empresa de tratamiento de residuos intentó convertirla en incineradora, sin éxito gracias a la oposición vecinal. Más tarde, la misma empresa intentó convertirla en una planta de hidrógeno verde pero, de nuevo, la resistencia vecinal ha conseguido retrasar y de momento parar el proyecto. El proyecto propone extraer el agua de uno de los pocos acuíferos de la zona, especialmente castigada por la sequía.
 
 Y así, este mamotreto de hormigón, que contiene toneladas de materiales contaminantes y peligrosos, sigue en pie esperando a que alguien se haga cargo de su desmantelamiento.
 
