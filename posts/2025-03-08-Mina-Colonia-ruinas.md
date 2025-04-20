@@ -6,7 +6,7 @@ categories: ["photography", "travel"]
 featuredImages: ["IMG_20250308_121901.webp","IMG_20250308_153622.webp"]
 ---
 
-El día está lluvioso. Sin ganas de pasar el día caminando empapados, descubrimos que hay una mina cercana que se puede visitar. 
+El día está lluvioso. Sin ganas de pasar la jornada caminando empapados, descubrimos que hay una mina cercana que se puede visitar. 
 
 Comenzamos explorando el museo, que conserva los recuerdos de aquellos que trabajaron bajo tierra. Allí pudimos apreciar la maquinaria, los instrumentos y los meticulosos sistemas de clasificación que marcaban el ritmo de la extracción del carbón.
 
