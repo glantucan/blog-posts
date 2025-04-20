@@ -8,13 +8,15 @@ featuredImages: ["IMG_20250308_121901.webp","IMG_20250308_153622.webp"]
 
 El día está lluvioso. Sin ganas de pasar la jornada caminando empapados, descubrimos que hay una mina cercana que se puede visitar. 
 
-Comenzamos explorando el museo, que conserva los recuerdos de aquellos que trabajaron bajo tierra. Allí pudimos apreciar la maquinaria, los instrumentos y los meticulosos sistemas de clasificación que marcaban el ritmo de la extracción del carbón.
+Comenzamos explorando el museo, que conserva los recuerdos de aquellos que trabajaron bajo tierra. Allí pudimos apreciar la maquinaria, los instrumentos y los meticulosos sistemas que marcaban el ritmo de la extracción del carbón.
 
-La mina es un laberinto oscuro y húmedo, donde los raíles y las tuberías aún evocan el arduo y peligroso trabajo de los mineros. Aunque solo pudimos adentrarnos en una de las galerías más cercanas a la superficie, despertó nuestra curiosidad.
+Ya en la mina, seguimos los raíles y las tuberías que reciclaban el aire que de las profundidades de la montaññadonde los mineros realizaban el arduo y peligroso trabajo de extracción. Aunque solo pudimos adentrarnos en una de las galerías más cercanas a la superficie, despertó nuestra curiosidad.
 
-La mina fue propiedad de un empresario vasco que mandó construir un palacete de estilo medieval. Si bien, para la época, trataba con relativa dignidad a sus mineros, proporcionándoles viviendas y servicios básicos, el castillo contrastaba con las condiciones de trabajo: jornadas de 12 horas los 7 días de la semana y salarios muy bajos.
+Esta explotación fue propiedad de un empresario vasco que, para la época, trataba con relativa dignidad a sus mineros, proporcionándoles viviendas y servicios básicos. 
 
-Afortunadamente, en 1910, atendió algunas de las demandas de los trabajadores, reduciendo la jornada laboral a 9 horas. En 1931, se logró reducir aún más a 7 horas y se estableció el descanso dominical.
+Sin embargo, deja claro cuáles eran sus prioridades que dedicara buena parte de su fortuna a construir un palacio de estilo medieval en las inmediaciones de la colonia. 
+
+Mientras sus empleados hacían jornadas de 12 horas los 7 días de la semana por salarios miserables. Afortunadamente, en 1910, atendió algunas de las demandas de los trabajadores, reduciendo la jornada laboral a 9 horas. En 1931, se logró reducir aún más a 7 horas y se estableció el descanso dominical.
 
 Una conversación con el guía nos reveló la ubicación de la antigua colonia minera, abandonada desde el cierre de la mina. A pocos kilómetros, encontramos la nave de procesamiento y clasificación del carbón, las cocinas, los comedores, las oficinas, la clínica y las viviendas de los mineros. Lo que fue pueblo, hoy es lienzo para artistas callejeros.
 
